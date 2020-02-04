@@ -1,2 +1,19 @@
-footer{margin-left: 50px;
-       margin-bottom:20px;}
+body{
+  background-image: url("img2jpg.jpg");
+}
+footer {
+  margin-left: 50px;
+  margin-bottom: 20px;
+ }
+ h2{
+   color:#ffffff;
+ }
+h3{
+  color:#f81080;
+}
+ul{
+  color:#ffffff;
+}
+border{
+border:1px color:#ffffff;
+}
