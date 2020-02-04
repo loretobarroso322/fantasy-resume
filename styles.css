@@ -4,16 +4,16 @@ body{
 footer {
   margin-left: 50px;
   margin-bottom: 20px;
+  color:#ffffff 
  }
  h2{
    color:#ffffff;
  }
 h3{
   color:#f81080;
+  margin-left: 50px
 }
 ul{
   color:#ffffff;
-}
-border{
-border:1px color:#ffffff;
+  margin-left: 100px
 }
